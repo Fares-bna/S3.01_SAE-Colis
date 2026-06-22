@@ -1,8 +1,10 @@
 <a name="top"></a>
 
-# Ce dépôt reprends le projet de SAE du S3 de mon groupe. README d'origine :
+# Ce dépôt reprends le projet de SAE du S3 de mon groupe. 
 
+# Vous trouverez ci-dessous les informations et consignes d'origines :
 
+-----------------------------------------
 
 # Suivi Colis - IUT Villetaneuse
 
