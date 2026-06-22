@@ -1,8 +1,6 @@
 <a name="top"></a>
 
-# Ce dépôt reprends le projet de SAE du S3 de mon groupe. 
-
-# Vous trouverez ci-dessous les informations et consignes d'origines :
+Ce dépôt reprends le projet développé dans le cadre de la SAE S3.01 du 3ème Semestre. Vous trouverez donc les informations et consignes d'origines du dépot :
 
 -----------------------------------------
 
